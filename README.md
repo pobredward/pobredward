@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![pobredward's GitHub stats](https://github-readme-stats.vercel.app/api?username=pobredward&show_icons=true&theme=merko)  
+![pobredward's github stats](https://github-readme-stats.vercel.app/api?username=namooplus&count_private=true)](https://github.com/namooplus/github-readme-stats)
 
 <h3>What can I do?</h3>
 

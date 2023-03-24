@@ -4,7 +4,7 @@
 
 <p>
 ![githubstats](https://github-readme-stats.vercel.app/api?username=pobredward&show_icons=true&theme=merko)  
-<!-- ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=pobredward&theme=merko) -->
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=pobredward&theme=merko)
 <p>
   
 <h3>What can I do?</h3>

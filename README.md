@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pobredward@gmail.com)
 
 
-![githubstats](https://github-readme-stats.vercel.app/api?username=pobredward&show_icons=true&theme=white)  
+![githubstats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=white)  
 
   
 <h3>What can I do?</h3>

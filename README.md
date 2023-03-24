@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**pobredward/pobredward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![pobredward's GitHub stats](https://github-readme-stats.vercel.app/api?username=pobredward&show_icons=true&theme=merko)  
 
 <h3>What can I do?</h3>

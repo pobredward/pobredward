@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pobredward&show_icons=true&theme=merko)  
+![A](https://github-readme-stats.vercel.app/api?username=pobredward&show_icons=true&theme=merko)  
 ![pobredward](https://github-readme-stats.vercel.app/api/top-langs/?username=pobredward&theme=merko)
 
 <h3>What can I do?</h3>
